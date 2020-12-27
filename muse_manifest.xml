@@ -1,0 +1,552 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="metaluxor.com" resolutions="1x" timestamp="1609110529054">
+  <folder name="css">
+    <file name="site_global.css" crc="442833071"/>
+    <file name="master_a-p_g_-maestra.css" crc="18688687" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="377685291" ref="index"/>
+    <file name="nomq_index.css" crc="4087217202" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="metaluxor-favicon.ico" crc="3976055748" ref="index"/>
+    <file name="garaje.svg" crc="4074439040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="garaje_poster_.png" crc="432674787" ref="index"/>
+    <file name="cubiertas.svg" crc="3827586694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubiertas_poster_.png" crc="4004394778" ref="index"/>
+    <file name="aluminio-vidrio.svg" crc="3939255726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aluminio vidrio_poster_.png" crc="3873205354" ref="index"/>
+    <file name="chapas.svg" crc="3798591678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chapas_poster_.png" crc="3899492384" ref="index"/>
+    <file name="bg somos.png" crc="3999461402" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto somos.png" crc="491212529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg metaluxor.png" crc="270910373" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1.svg" crc="362237206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1_poster_.png" crc="4212553264" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ico-whatsapp.svg" crc="124415275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico whatsapp_poster_.png" crc="4174553418" ref="index"/>
+    <file name="bg video.jpg" crc="4078333338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico play.png" crc="1953059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4b100bd1-1c10-4a12-a6f0-045bee3a7c0f-u1087-fr.jpg" crc="38245400" ref="index"/>
+    <file name="2436db80-105b-488e-b3f7-3d739b594067-u1140-fr.jpg" crc="333742029" ref="index"/>
+    <file name="bf42343c-1a6e-403b-809a-88e1ac8bad89-u1178-fr.jpg" crc="3786617546" ref="index"/>
+    <file name="ddf36933-f823-49f5-8630-572083540b43-u1196-fr.jpg" crc="4165785029" ref="index"/>
+    <file name="4b100bd1-1c10-4a12-a6f0-045bee3a7c0f.jpg" crc="3810012054" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2436db80-105b-488e-b3f7-3d739b594067.jpg" crc="83356060" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bf42343c-1a6e-403b-809a-88e1ac8bad89.jpg" crc="3809771711" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ddf36933-f823-49f5-8630-572083540b43.jpg" crc="190742795" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66a94923-2cf5-4132-8927-23eecd56665d-u3268-fr.jpg" crc="3860843047" ref="index"/>
+    <file name="d925a2d8-32ed-4075-9f88-123aef17933b-u3270-fr.jpg" crc="529595182" ref="index"/>
+    <file name="a9230754-7c52-424c-88fe-99fc394b11d6-u3271-fr.jpg" crc="4193613548" ref="index"/>
+    <file name="d5560c1d-9550-406a-93c4-7ff86d23f7b1-u3269-fr.jpg" crc="3815181938" ref="index"/>
+    <file name="66a94923-2cf5-4132-8927-23eecd56665d.jpg" crc="3950239724" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d925a2d8-32ed-4075-9f88-123aef17933b.jpg" crc="3923729774" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a9230754-7c52-424c-88fe-99fc394b11d6.jpg" crc="3880253270" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d5560c1d-9550-406a-93c4-7ff86d23f7b1.jpg" crc="419284686" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portfolio-img2a-u3512-fr.jpg" crc="420507839" ref="index"/>
+    <file name="portfolio-img6a-u3510-fr.jpg" crc="4038713314" ref="index"/>
+    <file name="portfolio-img7a-u3513-fr.jpg" crc="3801860401" ref="index"/>
+    <file name="portfolio-imga29-u3511-fr.jpg" crc="307914653" ref="index"/>
+    <file name="portfolio-img2a.jpg" crc="372073383" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portfolio-img6a.jpg" crc="396200273" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portfolio-img7a.jpg" crc="4035069389" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portfolio-imga29.jpg" crc="4229761191" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7bb7daad-9c82-4d0e-99f0-e46b0dba8614-u3695-fr.jpg" crc="4273664003" ref="index"/>
+    <file name="71673d36-9b4e-4f09-8d4d-b4cd41514d57-u3694-fr.jpg" crc="4265221229" ref="index"/>
+    <file name="a38713cf-7e84-41ac-9401-af584f752d36-u3693-fr.jpg" crc="454023392" ref="index"/>
+    <file name="4bc1edd4-8bc3-46a8-bb1f-4072b71e54dd-u3692-fr.jpg" crc="407167569" ref="index"/>
+    <file name="7bb7daad-9c82-4d0e-99f0-e46b0dba8614.jpg" crc="241161353" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="71673d36-9b4e-4f09-8d4d-b4cd41514d57.jpg" crc="397126425" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a38713cf-7e84-41ac-9401-af584f752d36.jpg" crc="147338961" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4bc1edd4-8bc3-46a8-bb1f-4072b71e54dd.jpg" crc="447167411" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5a8d86a8-3d7e-4626-b4e0-948176748043-u1289-fr.jpg" crc="510192201" ref="index"/>
+    <file name="5e944015-06f6-4091-923a-d39ffc1e5020-u1291-fr.jpg" crc="4151616209" ref="index"/>
+    <file name="a5d80a40-3d6a-411d-b9a7-3f95a6890586-u1290-fr.jpg" crc="3764751529" ref="index"/>
+    <file name="91da721e-ecdc-460d-a9cd-edc09537bbef-u1292-fr.jpg" crc="3960284370" ref="index"/>
+    <file name="5a8d86a8-3d7e-4626-b4e0-948176748043-u1297-fr.jpg" crc="3915782158" ref="index"/>
+    <file name="5e944015-06f6-4091-923a-d39ffc1e5020.jpg" crc="3787834755" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a5d80a40-3d6a-411d-b9a7-3f95a6890586.jpg" crc="4059075525" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91da721e-ecdc-460d-a9cd-edc09537bbef.jpg" crc="348712592" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0b53d961-856c-4d31-ae0e-db471eb855cc-u3850-fr.jpg" crc="4056758350" ref="index"/>
+    <file name="55dfa871-d048-4e49-9d10-b72262ebaec8-u3853-fr.jpg" crc="277559837" ref="index"/>
+    <file name="b5926804-6b2f-434e-929a-535224843158-u3852-fr.jpg" crc="4159257563" ref="index"/>
+    <file name="c93c9142-ce91-48dd-876e-bcbb9762a98b-u3851-fr.jpg" crc="247371908" ref="index"/>
+    <file name="0b53d961-856c-4d31-ae0e-db471eb855cc.jpg" crc="394738519" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55dfa871-d048-4e49-9d10-b72262ebaec8.jpg" crc="4039784614" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b5926804-6b2f-434e-929a-535224843158.jpg" crc="26455408" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c93c9142-ce91-48dd-876e-bcbb9762a98b.jpg" crc="388682159" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01bb9fa5-8a2e-4cc4-a0ce-d07d3eaa343b-u1448-fr.jpg" crc="3761163430" ref="index"/>
+    <file name="8b0d3bb3-f188-44a4-b225-abc5d1c06b73-u1451-fr.jpg" crc="4272892933" ref="index"/>
+    <file name="a6d22644-90e9-4dbd-b9c5-bb9665b9005b-u1450-fr.jpg" crc="3971573886" ref="index"/>
+    <file name="ad168c60-bde5-4eed-a2a8-669259a7ae99-u1449-fr.jpg" crc="4094565513" ref="index"/>
+    <file name="01bb9fa5-8a2e-4cc4-a0ce-d07d3eaa343b.jpg" crc="4087669397" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8b0d3bb3-f188-44a4-b225-abc5d1c06b73.jpg" crc="267985295" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a6d22644-90e9-4dbd-b9c5-bb9665b9005b.jpg" crc="4126925336" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ad168c60-bde5-4eed-a2a8-669259a7ae99.jpg" crc="211522872" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4ace67c3-5a74-4da6-8028-a6ce7035c7f0-u4040-fr.jpg" crc="4031513789" ref="index"/>
+    <file name="9eccac29-bab5-40bd-bab2-ec5451af7f5f-u4042-fr.jpg" crc="496719299" ref="index"/>
+    <file name="22f31b3d-a2ef-467d-95a1-75ec2af2124f-u4039-fr.jpg" crc="3913070493" ref="index"/>
+    <file name="302181dd-94f3-408e-a88f-12eba105f4a8-u4041-fr.jpg" crc="251192400" ref="index"/>
+    <file name="4ace67c3-5a74-4da6-8028-a6ce7035c7f0.jpg" crc="4045895992" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9eccac29-bab5-40bd-bab2-ec5451af7f5f.jpg" crc="4279949521" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22f31b3d-a2ef-467d-95a1-75ec2af2124f.jpg" crc="3948190245" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="302181dd-94f3-408e-a88f-12eba105f4a8.jpg" crc="4269287943" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211242_302-u5019-fr.jpg" crc="3929428308" ref="index"/>
+    <file name="img_20201220_211247_991-u5018-fr.jpg" crc="425344809" ref="index"/>
+    <file name="img_20201220_211252_136-u5020-fr.jpg" crc="4142492629" ref="index"/>
+    <file name="img_20201220_211301_541-u5021-fr.jpg" crc="3985952682" ref="index"/>
+    <file name="img_20201220_211242_302.jpg" crc="3874450968" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211247_991.jpg" crc="467634461" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211252_136.jpg" crc="3934551893" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211301_541.jpg" crc="4068193730" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91497eff-f604-4ead-9ed6-260bd09ce6ad-u1616-fr.jpg" crc="3931717241" ref="index"/>
+    <file name="b4c7a3b2-a90d-4ef9-80b7-006f62fb6c64-u1618-fr.jpg" crc="3964413583" ref="index"/>
+    <file name="d20a914c-a716-40cd-8e91-fdb18d407961-u1617-fr.jpg" crc="432846488" ref="index"/>
+    <file name="ef93431a-c6df-489b-99ec-20a74295311e-u1619-fr.jpg" crc="3805148874" ref="index"/>
+    <file name="91497eff-f604-4ead-9ed6-260bd09ce6ad.jpg" crc="3793508097" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b4c7a3b2-a90d-4ef9-80b7-006f62fb6c64.jpg" crc="426091823" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d20a914c-a716-40cd-8e91-fdb18d407961.jpg" crc="398584460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ef93431a-c6df-489b-99ec-20a74295311e.jpg" crc="476206555" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0a6360a6-580d-4871-9025-a8d805847222-u1774-fr.jpg" crc="4183363918" ref="index"/>
+    <file name="e2135c3b-96a8-4b00-a117-57fc27b1a19c-u1776-fr.jpg" crc="256087241" ref="index"/>
+    <file name="img_20201220_211324_991-u5092-fr.jpg" crc="46462258" ref="index"/>
+    <file name="img_20201220_211329_999-u5098-fr.jpg" crc="3922932859" ref="index"/>
+    <file name="0a6360a6-580d-4871-9025-a8d805847222.jpg" crc="3815034844" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e2135c3b-96a8-4b00-a117-57fc27b1a19c.jpg" crc="507659957" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211324_991.jpg" crc="498592227" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211329_999.jpg" crc="335710756" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6fb9ffe4-8f3f-47ba-8950-6d8336f8f4ce-u1904-fr.jpg" crc="513120633" ref="index"/>
+    <file name="8b02bbba-8e05-47c7-8f43-edb0b9f17fa5-u1901-fr.jpg" crc="68011918" ref="index"/>
+    <file name="fcf302dc-3755-41da-bdbe-ba6d1e2c00b9-u1902-fr.jpg" crc="59131048" ref="index"/>
+    <file name="6167bd87-e7a5-4f34-bc01-a5d59821dfc7-u1903-fr.jpg" crc="313862525" ref="index"/>
+    <file name="6fb9ffe4-8f3f-47ba-8950-6d8336f8f4ce.jpg" crc="4276578004" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8b02bbba-8e05-47c7-8f43-edb0b9f17fa5.jpg" crc="4221301498" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fcf302dc-3755-41da-bdbe-ba6d1e2c00b9.jpg" crc="232730354" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6167bd87-e7a5-4f34-bc01-a5d59821dfc7.jpg" crc="40305284" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3a9de152-d1a0-4c6e-acda-890b7841e7f6-u2033-fr.jpg" crc="103473554" ref="index"/>
+    <file name="4b42a448-5776-44ab-9bc5-ba794aab138a-u2034-fr.jpg" crc="494773071" ref="index"/>
+    <file name="img_20201220_211308_596-u5104-fr.jpg" crc="3972970937" ref="index"/>
+    <file name="img_20201220_211318_631-u5110-fr.jpg" crc="199544550" ref="index"/>
+    <file name="3a9de152-d1a0-4c6e-acda-890b7841e7f6.jpg" crc="3970798976" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4b42a448-5776-44ab-9bc5-ba794aab138a.jpg" crc="138741401" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211308_596.jpg" crc="470959696" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211318_631.jpg" crc="3791072677" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30b660aa-0bf0-4885-980f-38892014251a-u2151-fr.jpg" crc="4085880764" ref="index"/>
+    <file name="25ba4b8b-fccd-4066-9799-8db613c879d3-u2150-fr.jpg" crc="325861764" ref="index"/>
+    <file name="img_20201220_211334_882-u5116-fr.jpg" crc="257694843" ref="index"/>
+    <file name="img_20201220_211339_104-u5122-fr.jpg" crc="4147239704" ref="index"/>
+    <file name="30b660aa-0bf0-4885-980f-38892014251a.jpg" crc="3999995330" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25ba4b8b-fccd-4066-9799-8db613c879d3.jpg" crc="4073332107" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211334_882.jpg" crc="340626662" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20201220_211339_104.jpg" crc="4246931998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="82a73216-90c5-43ed-a88a-605788e1859d-u2290-fr.jpg" crc="239083652" ref="index"/>
+    <file name="2a34ef48-4731-4437-b00b-f89efec17b84-u2289-fr.jpg" crc="3807243366" ref="index"/>
+    <file name="bed62aaf-4557-4d9e-b07e-fd846ddc1772-u2291-fr.jpg" crc="4044513995" ref="index"/>
+    <file name="0593a681-84c8-4c4e-9e80-1c3b06835f91-u2292-fr.jpg" crc="4191064531" ref="index"/>
+    <file name="82a73216-90c5-43ed-a88a-605788e1859d.jpg" crc="345393508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2a34ef48-4731-4437-b00b-f89efec17b84.jpg" crc="3951883410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bed62aaf-4557-4d9e-b07e-fd846ddc1772.jpg" crc="323680201" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0593a681-84c8-4c4e-9e80-1c3b06835f91.jpg" crc="4219087574" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marcas.png" crc="3910222481" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.svg" crc="4133797126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="178173463" ref="index"/>
+    <file name="insta.svg" crc="3957243808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="insta_poster_.png" crc="443387824" ref="index"/>
+    <file name="messenger.svg" crc="114599990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="messenger_poster_.png" crc="4275409988" ref="index"/>
+    <file name="ubivcacion.svg" crc="4051520287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubivcacion_poster_.png" crc="3929711311" ref="index"/>
+    <file name="celular.svg" crc="482031555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="celular_poster_.png" crc="4001419986" ref="index"/>
+    <file name="telefono.svg" crc="3848883684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefono_poster_.png" crc="4206563289" ref="index"/>
+    <file name="logo2.svg" crc="3782445833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2_poster_.png" crc="154381219" ref="index"/>
+    <file name="d925a2d8-32ed-4075-9f88-123aef17933b-u3274-fr.jpg" crc="163494504" ref="index"/>
+    <file name="5a8d86a8-3d7e-4626-b4e0-948176748043-u1297-fr2.jpg" crc="388670248" ref="index"/>
+    <file name="ad168c60-bde5-4eed-a2a8-669259a7ae99-u1460-fr.jpg" crc="346059702" ref="index"/>
+    <file name="71673d36-9b4e-4f09-8d4d-b4cd41514d57-u3705-fr.jpg" crc="425663397" ref="index"/>
+    <file name="a38713cf-7e84-41ac-9401-af584f752d36-u3704-fr.jpg" crc="3787840982" ref="index"/>
+    <file name="8b02bbba-8e05-47c7-8f43-edb0b9f17fa5-u1901-fr2.jpg" crc="412804340" ref="index"/>
+    <file name="30b660aa-0bf0-4885-980f-38892014251a-u2157-fr.jpg" crc="518515096" ref="index"/>
+    <file name="marcas-u2366-fr.png" crc="27855702" ref="index"/>
+    <file name="4b100bd1-1c10-4a12-a6f0-045bee3a7c0f-u1084-fr.jpg" crc="3837075440" ref="index"/>
+    <file name="2436db80-105b-488e-b3f7-3d739b594067-u1145-fr.jpg" crc="161793921" ref="index"/>
+    <file name="bf42343c-1a6e-403b-809a-88e1ac8bad89-u1181-fr.jpg" crc="3837444714" ref="index"/>
+    <file name="ddf36933-f823-49f5-8630-572083540b43-u1199-fr.jpg" crc="4126363580" ref="index"/>
+    <file name="66a94923-2cf5-4132-8927-23eecd56665d-u3276-fr.jpg" crc="3768967224" ref="index"/>
+    <file name="a9230754-7c52-424c-88fe-99fc394b11d6-u3273-fr.jpg" crc="4033817046" ref="index"/>
+    <file name="d5560c1d-9550-406a-93c4-7ff86d23f7b1-u3275-fr.jpg" crc="245215438" ref="index"/>
+    <file name="portfolio-img2a-u3512-fr2.jpg" crc="4208212846" ref="index"/>
+    <file name="portfolio-img6a-u3510-fr2.jpg" crc="363860682" ref="index"/>
+    <file name="portfolio-img7a-u3513-fr2.jpg" crc="79990720" ref="index"/>
+    <file name="portfolio-imga29-u3511-fr2.jpg" crc="4189381661" ref="index"/>
+    <file name="portfolio-img2a-u3515-fr.jpg" crc="3812638204" ref="index"/>
+    <file name="portfolio-img6a-u3517-fr.jpg" crc="285464925" ref="index"/>
+    <file name="portfolio-img7a-u3516-fr.jpg" crc="384739721" ref="index"/>
+    <file name="portfolio-imga29-u3518-fr.jpg" crc="4156794521" ref="index"/>
+    <file name="7bb7daad-9c82-4d0e-99f0-e46b0dba8614-u3703-fr.jpg" crc="354203788" ref="index"/>
+    <file name="4bc1edd4-8bc3-46a8-bb1f-4072b71e54dd-u3706-fr.jpg" crc="237792829" ref="index"/>
+    <file name="5e944015-06f6-4091-923a-d39ffc1e5020-u1295-fr.jpg" crc="264463673" ref="index"/>
+    <file name="a5d80a40-3d6a-411d-b9a7-3f95a6890586-u1296-fr.jpg" crc="466631018" ref="index"/>
+    <file name="91da721e-ecdc-460d-a9cd-edc09537bbef-u1294-fr.jpg" crc="323982916" ref="index"/>
+    <file name="0b53d961-856c-4d31-ae0e-db471eb855cc-u3864-fr.jpg" crc="156199701" ref="index"/>
+    <file name="55dfa871-d048-4e49-9d10-b72262ebaec8-u3861-fr.jpg" crc="96039830" ref="index"/>
+    <file name="b5926804-6b2f-434e-929a-535224843158-u3863-fr.jpg" crc="125918898" ref="index"/>
+    <file name="c93c9142-ce91-48dd-876e-bcbb9762a98b-u3862-fr.jpg" crc="4232478369" ref="index"/>
+    <file name="ad168c60-bde5-4eed-a2a8-669259a7ae99-u1449-fr2.jpg" crc="375933470" ref="index"/>
+    <file name="01bb9fa5-8a2e-4cc4-a0ce-d07d3eaa343b-u1462-fr.jpg" crc="40240218" ref="index"/>
+    <file name="8b0d3bb3-f188-44a4-b225-abc5d1c06b73-u1459-fr.jpg" crc="523586867" ref="index"/>
+    <file name="a6d22644-90e9-4dbd-b9c5-bb9665b9005b-u1461-fr.jpg" crc="3844926789" ref="index"/>
+    <file name="22f31b3d-a2ef-467d-95a1-75ec2af2124f-u4039-fr2.jpg" crc="161818301" ref="index"/>
+    <file name="4ace67c3-5a74-4da6-8028-a6ce7035c7f0-u4031-fr.jpg" crc="176885759" ref="index"/>
+    <file name="9eccac29-bab5-40bd-bab2-ec5451af7f5f-u4033-fr.jpg" crc="3976230696" ref="index"/>
+    <file name="22f31b3d-a2ef-467d-95a1-75ec2af2124f-u4032-fr.jpg" crc="4070171579" ref="index"/>
+    <file name="302181dd-94f3-408e-a88f-12eba105f4a8-u4030-fr.jpg" crc="252473203" ref="index"/>
+    <file name="img_20201220_211242_302-u5019-fr2.jpg" crc="224862070" ref="index"/>
+    <file name="img_20201220_211247_991-u5018-fr2.jpg" crc="37490588" ref="index"/>
+    <file name="img_20201220_211252_136-u5020-fr2.jpg" crc="4147942352" ref="index"/>
+    <file name="img_20201220_211301_541-u5021-fr2.jpg" crc="4288150782" ref="index"/>
+    <file name="img_20201220_211242_302-u5027-fr.jpg" crc="375335178" ref="index"/>
+    <file name="img_20201220_211247_991-u5030-fr.jpg" crc="4054218335" ref="index"/>
+    <file name="img_20201220_211252_136-u5028-fr.jpg" crc="4201224440" ref="index"/>
+    <file name="img_20201220_211301_541-u5029-fr.jpg" crc="3802314570" ref="index"/>
+    <file name="91497eff-f604-4ead-9ed6-260bd09ce6ad-u1621-fr.jpg" crc="3786078628" ref="index"/>
+    <file name="b4c7a3b2-a90d-4ef9-80b7-006f62fb6c64-u1624-fr.jpg" crc="264499446" ref="index"/>
+    <file name="d20a914c-a716-40cd-8e91-fdb18d407961-u1622-fr.jpg" crc="378801940" ref="index"/>
+    <file name="ef93431a-c6df-489b-99ec-20a74295311e-u1623-fr.jpg" crc="433431194" ref="index"/>
+    <file name="e2135c3b-96a8-4b00-a117-57fc27b1a19c-u1776-fr2.jpg" crc="3809757202" ref="index"/>
+    <file name="img_20201220_211324_991-u5092-fr2.jpg" crc="3781630061" ref="index"/>
+    <file name="img_20201220_211329_999-u5098-fr2.jpg" crc="447234898" ref="index"/>
+    <file name="0a6360a6-580d-4871-9025-a8d805847222-u1770-fr.jpg" crc="73275450" ref="index"/>
+    <file name="e2135c3b-96a8-4b00-a117-57fc27b1a19c-u1769-fr.jpg" crc="3813269098" ref="index"/>
+    <file name="img_20201220_211324_991-u5095-fr.jpg" crc="49354559" ref="index"/>
+    <file name="img_20201220_211329_999-u5101-fr.jpg" crc="3762005757" ref="index"/>
+    <file name="6fb9ffe4-8f3f-47ba-8950-6d8336f8f4ce-u1904-fr2.jpg" crc="3981179268" ref="index"/>
+    <file name="8b02bbba-8e05-47c7-8f43-edb0b9f17fa5-u1901-fr3.jpg" crc="121752298" ref="index"/>
+    <file name="6167bd87-e7a5-4f34-bc01-a5d59821dfc7-u1903-fr2.jpg" crc="3851008213" ref="index"/>
+    <file name="6fb9ffe4-8f3f-47ba-8950-6d8336f8f4ce-u1897-fr.jpg" crc="3937251669" ref="index"/>
+    <file name="8b02bbba-8e05-47c7-8f43-edb0b9f17fa5-u1896-fr.jpg" crc="4123356486" ref="index"/>
+    <file name="fcf302dc-3755-41da-bdbe-ba6d1e2c00b9-u1899-fr.jpg" crc="291418770" ref="index"/>
+    <file name="6167bd87-e7a5-4f34-bc01-a5d59821dfc7-u1898-fr.jpg" crc="3868702054" ref="index"/>
+    <file name="3a9de152-d1a0-4c6e-acda-890b7841e7f6-u2022-fr.jpg" crc="53225553" ref="index"/>
+    <file name="4b42a448-5776-44ab-9bc5-ba794aab138a-u2020-fr.jpg" crc="4272591012" ref="index"/>
+    <file name="img_20201220_211308_596-u5107-fr.jpg" crc="4214788912" ref="index"/>
+    <file name="img_20201220_211318_631-u5113-fr.jpg" crc="60643234" ref="index"/>
+    <file name="30b660aa-0bf0-4885-980f-38892014251a-u2157-fr2.jpg" crc="3886629139" ref="index"/>
+    <file name="25ba4b8b-fccd-4066-9799-8db613c879d3-u2155-fr.jpg" crc="16679924" ref="index"/>
+    <file name="img_20201220_211334_882-u5119-fr.jpg" crc="251713057" ref="index"/>
+    <file name="img_20201220_211339_104-u5125-fr.jpg" crc="436775370" ref="index"/>
+    <file name="82a73216-90c5-43ed-a88a-605788e1859d-u2281-fr.jpg" crc="4208763304" ref="index"/>
+    <file name="2a34ef48-4731-4437-b00b-f89efec17b84-u2280-fr.jpg" crc="4001096225" ref="index"/>
+    <file name="bed62aaf-4557-4d9e-b07e-fd846ddc1772-u2278-fr.jpg" crc="429755712" ref="index"/>
+    <file name="0593a681-84c8-4c4e-9e80-1c3b06835f91-u2279-fr.jpg" crc="3898612005" ref="index"/>
+    <file name="marcas-u2366-fr2.png" crc="254001280" ref="index"/>
+  </folder>
+  <file name="index.html" crc="520600604" seo="true" mt="1609110486475" redirect="true"/>
+</manifest>
